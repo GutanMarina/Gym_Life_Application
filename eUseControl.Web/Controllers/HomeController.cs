@@ -18,5 +18,9 @@ namespace eUseControl.Web.Controllers
         {
             return View();
         }
+        public ActionResult Classes()
+        {
+            return View();
+        }
     }
 }
