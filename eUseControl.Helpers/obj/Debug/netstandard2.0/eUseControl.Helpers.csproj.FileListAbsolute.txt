@@ -1,0 +1,11 @@
+C:\Users\Sanda\Source\Repos\Gym_Life_Application\eUseControl.Helpers\bin\Debug\netstandard2.0\eUseControl.Helpers.deps.json
+C:\Users\Sanda\Source\Repos\Gym_Life_Application\eUseControl.Helpers\bin\Debug\netstandard2.0\eUseControl.Helpers.dll
+C:\Users\Sanda\Source\Repos\Gym_Life_Application\eUseControl.Helpers\bin\Debug\netstandard2.0\eUseControl.Helpers.pdb
+C:\Users\Sanda\Source\Repos\Gym_Life_Application\eUseControl.Helpers\obj\Debug\netstandard2.0\eUseControl.Helpers.csproj.AssemblyReference.cache
+C:\Users\Sanda\Source\Repos\Gym_Life_Application\eUseControl.Helpers\obj\Debug\netstandard2.0\eUseControl.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sanda\Source\Repos\Gym_Life_Application\eUseControl.Helpers\obj\Debug\netstandard2.0\eUseControl.Helpers.AssemblyInfoInputs.cache
+C:\Users\Sanda\Source\Repos\Gym_Life_Application\eUseControl.Helpers\obj\Debug\netstandard2.0\eUseControl.Helpers.AssemblyInfo.cs
+C:\Users\Sanda\Source\Repos\Gym_Life_Application\eUseControl.Helpers\obj\Debug\netstandard2.0\eUseControl.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\Sanda\Source\Repos\Gym_Life_Application\eUseControl.Helpers\obj\Debug\netstandard2.0\eUseControl.Helpers.sourcelink.json
+C:\Users\Sanda\Source\Repos\Gym_Life_Application\eUseControl.Helpers\obj\Debug\netstandard2.0\eUseControl.Helpers.dll
+C:\Users\Sanda\Source\Repos\Gym_Life_Application\eUseControl.Helpers\obj\Debug\netstandard2.0\eUseControl.Helpers.pdb
