@@ -46,6 +46,14 @@ namespace eUseControl.Web.Controllers
         {
             return View();
         }
+        public ActionResult Gallery()
+        {
+            return View();
+        }
+        public ActionResult ClassesTimetable()
+        {
+            return View();
+        }
 
     }
 }
