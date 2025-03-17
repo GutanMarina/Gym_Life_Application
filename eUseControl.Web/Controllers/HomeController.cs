@@ -26,6 +26,27 @@ namespace eUseControl.Web.Controllers
         {
             return View();
         }
+        public ActionResult OurTeam()
+        {
+            return View();
+        }
+        public ActionResult Contact()
+        {
+            return View();
+        }
+        public ActionResult Blog()
+        {
+            return View();
+        }
+        public ActionResult BMI()
+        {
+            return View();
+        }
+        public ActionResult Error()
+        {
+            return View();
+        }
+
     }
 }
         
