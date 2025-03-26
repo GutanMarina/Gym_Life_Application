@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sanda\\Source\\Repos\\Gym_Life_Application\\eUseControl.Helpers\\eUseControl.Helpers.csproj": {}
+    "C:\\Users\\Sanda\\Gym_Life_Application\\eUseControl.Helpers\\eUseControl.Helpers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sanda\\Source\\Repos\\Gym_Life_Application\\eUseControl.Helpers\\eUseControl.Helpers.csproj": {
+    "C:\\Users\\Sanda\\Gym_Life_Application\\eUseControl.Helpers\\eUseControl.Helpers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sanda\\Source\\Repos\\Gym_Life_Application\\eUseControl.Helpers\\eUseControl.Helpers.csproj",
+        "projectUniqueName": "C:\\Users\\Sanda\\Gym_Life_Application\\eUseControl.Helpers\\eUseControl.Helpers.csproj",
         "projectName": "eUseControl.Helpers",
-        "projectPath": "C:\\Users\\Sanda\\Source\\Repos\\Gym_Life_Application\\eUseControl.Helpers\\eUseControl.Helpers.csproj",
+        "projectPath": "C:\\Users\\Sanda\\Gym_Life_Application\\eUseControl.Helpers\\eUseControl.Helpers.csproj",
         "packagesPath": "C:\\Users\\Sanda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sanda\\Source\\Repos\\Gym_Life_Application\\eUseControl.Helpers\\obj\\",
+        "outputPath": "C:\\Users\\Sanda\\Gym_Life_Application\\eUseControl.Helpers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

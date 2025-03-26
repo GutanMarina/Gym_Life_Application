@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1QTX+p3ZH0w=",
+  "dgSpecHash": "jSRnXx3CPKE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sanda\\Source\\Repos\\Gym_Life_Application\\eUseControl.Helpers\\eUseControl.Helpers.csproj",
+  "projectFilePath": "C:\\Users\\Sanda\\Gym_Life_Application\\eUseControl.Helpers\\eUseControl.Helpers.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sanda\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Sanda\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

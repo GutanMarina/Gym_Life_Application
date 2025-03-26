@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("eUseControl.Helpers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a32583f90611b43bc2cc8f8567d1996423058be2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0efaff663c1814d2ad6ef281c2014f8d5a5901af")]
 [assembly: System.Reflection.AssemblyProductAttribute("eUseControl.Helpers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("eUseControl.Helpers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
