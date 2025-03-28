@@ -1,12 +1,185 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\valer\\Gym_Life_Application\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Sanda\\Gym_Life_Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C43FFB-DE3A-9189-E248-B73CA87FE46A}|eUseControl.BusinessLogic\\eUseControl.BusinessLogic.csproj|c:\\users\\sanda\\gym_life_application\\eusecontrol.businesslogic\\blstruct\\loginbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C43FFB-DE3A-9189-E248-B73CA87FE46A}|eUseControl.BusinessLogic\\eUseControl.BusinessLogic.csproj|solutionrelative:eusecontrol.businesslogic\\blstruct\\loginbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C43FFB-DE3A-9189-E248-B73CA87FE46A}|eUseControl.BusinessLogic\\eUseControl.BusinessLogic.csproj|c:\\users\\sanda\\gym_life_application\\eusecontrol.businesslogic\\core\\userapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C43FFB-DE3A-9189-E248-B73CA87FE46A}|eUseControl.BusinessLogic\\eUseControl.BusinessLogic.csproj|solutionrelative:eusecontrol.businesslogic\\core\\userapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C43FFB-DE3A-9189-E248-B73CA87FE46A}|eUseControl.BusinessLogic\\eUseControl.BusinessLogic.csproj|c:\\users\\sanda\\gym_life_application\\eusecontrol.businesslogic\\interfaces\\ilogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C43FFB-DE3A-9189-E248-B73CA87FE46A}|eUseControl.BusinessLogic\\eUseControl.BusinessLogic.csproj|solutionrelative:eusecontrol.businesslogic\\interfaces\\ilogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE857F9-2A4A-4A69-B446-9B2FB482E014}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Sanda\\Gym_Life_Application\\eusecontrol.web\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE857F9-2A4A-4A69-B446-9B2FB482E014}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8944B197-27FE-E441-C8DA-363488B80C89}|eUseControl.Domain\\eUseControl.Domain.csproj|c:\\users\\sanda\\gym_life_application\\eusecontrol.domain\\model\\user\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8944B197-27FE-E441-C8DA-363488B80C89}|eUseControl.Domain\\eUseControl.Domain.csproj|solutionrelative:eusecontrol.domain\\model\\user\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE857F9-2A4A-4A69-B446-9B2FB482E014}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Sanda\\Gym_Life_Application\\eusecontrol.web\\views\\home\\classes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3AE857F9-2A4A-4A69-B446-9B2FB482E014}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\views\\home\\classes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE857F9-2A4A-4A69-B446-9B2FB482E014}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Sanda\\Gym_Life_Application\\eusecontrol.web\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3AE857F9-2A4A-4A69-B446-9B2FB482E014}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE857F9-2A4A-4A69-B446-9B2FB482E014}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Sanda\\Gym_Life_Application\\eusecontrol.web\\models\\login\\userdatalogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE857F9-2A4A-4A69-B446-9B2FB482E014}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\models\\login\\userdatalogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8944B197-27FE-E441-C8DA-363488B80C89}|eUseControl.Domain\\eUseControl.Domain.csproj|c:\\users\\sanda\\gym_life_application\\eusecontrol.domain\\eusecontrol.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8944B197-27FE-E441-C8DA-363488B80C89}|eUseControl.Domain\\eUseControl.Domain.csproj|solutionrelative:eusecontrol.domain\\eusecontrol.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C43FFB-DE3A-9189-E248-B73CA87FE46A}|eUseControl.BusinessLogic\\eUseControl.BusinessLogic.csproj|c:\\users\\sanda\\gym_life_application\\eusecontrol.businesslogic\\eusecontrol.businesslogic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E2C43FFB-DE3A-9189-E248-B73CA87FE46A}|eUseControl.BusinessLogic\\eUseControl.BusinessLogic.csproj|solutionrelative:eusecontrol.businesslogic\\eusecontrol.businesslogic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Classes.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sanda\\Gym_Life_Application\\eUseControl.Web\\Views\\Home\\Classes.cshtml",
+              "RelativeDocumentMoniker": "eUseControl.Web\\Views\\Home\\Classes.cshtml",
+              "ToolTip": "C:\\Users\\Sanda\\Gym_Life_Application\\eUseControl.Web\\Views\\Home\\Classes.cshtml",
+              "RelativeToolTip": "eUseControl.Web\\Views\\Home\\Classes.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-21T10:46:31.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sanda\\Gym_Life_Application\\eUseControl.Web\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "eUseControl.Web\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sanda\\Gym_Life_Application\\eUseControl.Web\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "eUseControl.Web\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-21T09:40:03.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ILogin.cs",
+              "DocumentMoniker": "C:\\Users\\Sanda\\Gym_Life_Application\\eUseControl.BusinessLogic\\Interfaces\\ILogin.cs",
+              "RelativeDocumentMoniker": "eUseControl.BusinessLogic\\Interfaces\\ILogin.cs",
+              "ToolTip": "C:\\Users\\Sanda\\Gym_Life_Application\\eUseControl.BusinessLogic\\Interfaces\\ILogin.cs",
+              "RelativeToolTip": "eUseControl.BusinessLogic\\Interfaces\\ILogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T08:57:16.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginBl.cs",
+              "DocumentMoniker": "C:\\Users\\Sanda\\Gym_Life_Application\\eUseControl.BusinessLogic\\BlStruct\\LoginBl.cs",
+              "RelativeDocumentMoniker": "eUseControl.BusinessLogic\\BlStruct\\LoginBl.cs",
+              "ToolTip": "C:\\Users\\Sanda\\Gym_Life_Application\\eUseControl.BusinessLogic\\BlStruct\\LoginBl.cs",
+              "RelativeToolTip": "eUseControl.BusinessLogic\\BlStruct\\LoginBl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T08:56:55.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Sanda\\Gym_Life_Application\\eUseControl.Web\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "eUseControl.Web\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Sanda\\Gym_Life_Application\\eUseControl.Web\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "eUseControl.Web\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAswB4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T08:49:22.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserDataLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Sanda\\Gym_Life_Application\\eUseControl.Web\\Models\\Login\\UserDataLogin.cs",
+              "RelativeDocumentMoniker": "eUseControl.Web\\Models\\Login\\UserDataLogin.cs",
+              "ToolTip": "C:\\Users\\Sanda\\Gym_Life_Application\\eUseControl.Web\\Models\\Login\\UserDataLogin.cs",
+              "RelativeToolTip": "eUseControl.Web\\Models\\Login\\UserDataLogin.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T08:46:16.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserAPI.cs",
+              "DocumentMoniker": "C:\\Users\\Sanda\\Gym_Life_Application\\eUseControl.BusinessLogic\\Core\\UserAPI.cs",
+              "RelativeDocumentMoniker": "eUseControl.BusinessLogic\\Core\\UserAPI.cs",
+              "ToolTip": "C:\\Users\\Sanda\\Gym_Life_Application\\eUseControl.BusinessLogic\\Core\\UserAPI.cs",
+              "RelativeToolTip": "eUseControl.BusinessLogic\\Core\\UserAPI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T08:34:25.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserLoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Sanda\\Gym_Life_Application\\eUseControl.Domain\\Model\\User\\UserLoginDTO.cs",
+              "RelativeDocumentMoniker": "eUseControl.Domain\\Model\\User\\UserLoginDTO.cs",
+              "ToolTip": "C:\\Users\\Sanda\\Gym_Life_Application\\eUseControl.Domain\\Model\\User\\UserLoginDTO.cs",
+              "RelativeToolTip": "eUseControl.Domain\\Model\\User\\UserLoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T09:00:27.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "eUseControl.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Sanda\\Gym_Life_Application\\eUseControl.Domain\\eUseControl.Domain.csproj",
+              "RelativeDocumentMoniker": "eUseControl.Domain\\eUseControl.Domain.csproj",
+              "ToolTip": "C:\\Users\\Sanda\\Gym_Life_Application\\eUseControl.Domain\\eUseControl.Domain.csproj",
+              "RelativeToolTip": "eUseControl.Domain\\eUseControl.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-20T08:34:49.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "eUseControl.BusinessLogic.csproj",
+              "DocumentMoniker": "C:\\Users\\Sanda\\Gym_Life_Application\\eUseControl.BusinessLogic\\eUseControl.BusinessLogic.csproj",
+              "RelativeDocumentMoniker": "eUseControl.BusinessLogic\\eUseControl.BusinessLogic.csproj",
+              "ToolTip": "C:\\Users\\Sanda\\Gym_Life_Application\\eUseControl.BusinessLogic\\eUseControl.BusinessLogic.csproj",
+              "RelativeToolTip": "eUseControl.BusinessLogic\\eUseControl.BusinessLogic.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-20T08:34:03.212Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
